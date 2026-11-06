@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title desc">
+<title id="title">GitHub snapshot</title><desc id="desc">Seven public repositories and two featured projects.</desc>
+<defs><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#1e293b"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect x="1" y="1" width="898" height="208" rx="22" fill="url(#card)" stroke="#334155" stroke-width="2"/>
+<text x="36" y="47" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#f8fafc">GitHub at a glance</text>
+<text x="36" y="75" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#94a3b8">A small snapshot of my public profile</text>
+<rect x="36" y="99" width="398" height="82" rx="14" fill="#0f172a" stroke="#334155"/>
+<rect x="466" y="99" width="398" height="82" rx="14" fill="#0f172a" stroke="#334155"/>
+<text x="62" y="151" font-family="Segoe UI,Arial,sans-serif" font-size="39" font-weight="700" fill="url(#accent)">7</text>
+<text x="120" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#e2e8f0">Public repositories</text>
+<text x="120" y="160" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#94a3b8">Open projects and experiments</text>
+<text x="493" y="151" font-family="Segoe UI,Arial,sans-serif" font-size="39" font-weight="700" fill="url(#accent)">2</text>
+<text x="551" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#e2e8f0">Featured projects</text>
+<text x="551" y="160" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#94a3b8">WarrantyWallet and StudentHub</text>
+</svg>
