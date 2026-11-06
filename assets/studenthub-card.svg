@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150" role="img" aria-labelledby="title desc">
+<title id="title">StudentHub</title><desc id="desc">Student management application project.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e3a8a"/><stop offset="1" stop-color="#6d28d9"/></linearGradient></defs>
+<rect width="520" height="150" rx="20" fill="url(#g)"/><circle cx="450" cy="20" r="100" fill="#fff" opacity=".07"/>
+<circle cx="55" cy="56" r="15" fill="none" stroke="#dbeafe" stroke-width="3"/><path d="M27 108c3-20 16-29 28-29s25 9 28 29" fill="none" stroke="#dbeafe" stroke-width="3" stroke-linecap="round"/><path d="M28 37h54" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round"/>
+<text x="112" y="67" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#fff">StudentHub</text><text x="112" y="94" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#e0e7ff">A simple student management application</text><text x="112" y="121" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#c4b5fd">VIEW PROJECT  →</text>
+</svg>
