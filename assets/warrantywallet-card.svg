@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150" role="img" aria-labelledby="title desc">
+<title id="title">WarrantyWallet</title><desc id="desc">Household warranty and product records project.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14532d"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
+<rect width="520" height="150" rx="20" fill="url(#g)"/><circle cx="450" cy="20" r="100" fill="#fff" opacity=".07"/>
+<rect x="28" y="35" width="54" height="70" rx="8" fill="none" stroke="#d1fae5" stroke-width="3"/><path d="M39 53h32M39 64h32M39 75h21" stroke="#d1fae5" stroke-width="3" stroke-linecap="round"/><path d="M60 89l8 8 15-19" fill="none" stroke="#a7f3d0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="112" y="67" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#fff">WarrantyWallet</text><text x="112" y="94" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#d1fae5">Keep warranties, receipts and repairs in one place</text><text x="112" y="121" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#a7f3d0">VIEW PROJECT  →</text>
+</svg>
