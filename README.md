@@ -21,7 +21,7 @@
 
 ### 🔗 Find me around GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-codewithsayan7-181717?style=for-the-badge&logo=github)](https://github.com/codewithsayan7)
+[Visit my GitHub repositories](https://github.com/codewithsayan7?tab=repositories)
 
 💙 **Thanks for stopping by. Have a wonderful day!**
 
