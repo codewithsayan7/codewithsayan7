@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sayan+%F0%9F%91%8B;Welcome+to+my+corner+of+GitHub;Always+learning.+Always+growing." alt="Animated welcome" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Sayan%20Banerjee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sayan+%F0%9F%91%8B;Welcome+to+my+corner+of+GitHub;Curious+mind.+Creative+spirit.;Always+learning.+Always+growing." alt="Animated introduction" />
 
 <p><em>A little space to learn, create, explore, and share.</em></p>
-
-<img src="https://komarev.com/ghpvc/?username=codewithsayan7&style=flat&color=blue&label=Profile+views" alt="Profile views" />
 
 </div>
 
@@ -24,14 +24,14 @@ Believing in progress, creativity, and consistency.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsayan7&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Stay+curious.;Keep+creating.;Make+every+day+count." alt="Animated motto" />
 
 </div>
-
----
 
 <div align="center">
 
 <sub>Thanks for stopping by. Have a great day! ✨</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Animated footer" />
 
 </div>
