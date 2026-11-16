@@ -1,6 +1,6 @@
 # Hi, I'm Sayan Banerjee
 
-I'm from West Bengal, India, and I have a background in computer science. Right now, I'm focusing on **Data Engineering** and building projects that help me understand how data moves from raw files to something people can actually use.
+I have a background in computer science. Right now, I'm focusing on **Data Engineering** and building projects that help me understand how data moves from raw files to something people can actually use.
 
 I use this GitHub to keep track of what I'm building, what I'm learning, and the things I've tried along the way.
 
